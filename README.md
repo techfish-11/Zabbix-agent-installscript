@@ -1,4 +1,4 @@
-# Zabbix-agent-installscript
+# Zabbix-agent　インストールスクリプト
 
 zabbix-agent2をインストールするスクリプトです。
 個人的にほしかったので作りました。
