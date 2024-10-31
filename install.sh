@@ -20,5 +20,5 @@ systemctl restart zabbix-agent2
 systemctl enable zabbix-agent2
 
 echo "Zabbixエージェント2のインストールが完了しました。設定を行ってください。"
-echo"設定ファイルは/etc/zabbix/zabbix_agent2.confです"
-echo"設定が終了したらsudo systemctl restart zabbix-agent2を実行してください。"
+echo "設定ファイルは/etc/zabbix/zabbix_agent2.confです"
+echo "設定が終了したらsudo systemctl restart zabbix-agent2を実行してください。"
